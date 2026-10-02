@@ -1,0 +1,302 @@
+
+==================================================
+Automation started: 2026-09-28 20:41:03
+==================================================
+No new files to organize.
+Duplicate found: test_files\Documents\notes_copy.txt | Original: test_files\Documents\notes.txt
+Duplicate found: test_files\Images\photo.jpg | Original: test_files\Documents\resume.pdf
+Duplicate found: test_files\Videos\video.mp4 | Original: test_files\Documents\resume.pdf
+Total duplicates found: 3
+Automation completed: 2026-09-28 20:41:03
+
+==================================================
+Automation started: 2026-09-28 21:00:11
+==================================================
+No new files to organize.
+Duplicate found: test_files\Documents\notes_copy.txt | Original: test_files\Documents\notes.txt
+Duplicate found: test_files\Images\photo.jpg | Original: test_files\Documents\resume.pdf
+Duplicate found: test_files\Videos\video.mp4 | Original: test_files\Documents\resume.pdf
+Total duplicates found: 3
+---------- AUTOMATION SUMMARY ----------
+Files organized: 0
+Duplicates found: 3
+Images: 1
+Documents: 3
+Videos: 1
+Audio: 0
+Others: 0
+Automation completed: 2026-09-28 21:00:11
+
+==================================================
+Automation started: 2026-09-28 21:01:39
+==================================================
+No new files to organize.
+Duplicate found: test_files\Documents\notes_copy.txt | Original: test_files\Documents\notes.txt
+Duplicate found: test_files\Images\photo.jpg | Original: test_files\Documents\resume.pdf
+Duplicate found: test_files\Videos\video.mp4 | Original: test_files\Documents\resume.pdf
+Total duplicates found: 3
+---------- AUTOMATION SUMMARY ----------
+Files organized: 0
+Duplicates found: 3
+Images: 1
+Documents: 3
+Videos: 1
+Audio: 0
+Others: 0
+Automation completed: 2026-09-28 21:01:39
+
+==================================================
+Automation started: 2026-09-28 21:01:39
+==================================================
+No new files to organize.
+Duplicate found: test_files\Documents\notes_copy.txt | Original: test_files\Documents\notes.txt
+Duplicate found: test_files\Images\photo.jpg | Original: test_files\Documents\resume.pdf
+Duplicate found: test_files\Videos\video.mp4 | Original: test_files\Documents\resume.pdf
+Total duplicates found: 3
+---------- AUTOMATION SUMMARY ----------
+Files organized: 0
+Duplicates found: 3
+Images: 1
+Documents: 3
+Videos: 1
+Audio: 0
+Others: 0
+Automation completed: 2026-09-28 21:01:39
+
+==================================================
+Automation started: 2026-09-28 21:08:39
+==================================================
+No new files to organize.
+Duplicate found: test_files\Documents\notes_copy.txt | Original: test_files\Documents\notes.txt
+Duplicate found: test_files\Images\photo.jpg | Original: test_files\Documents\resume.pdf
+Duplicate found: test_files\Videos\video.mp4 | Original: test_files\Documents\resume.pdf
+Total duplicates found: 3
+Automation completed: 2026-09-28 21:08:39
+
+==================================================
+Automation started: 2026-10-01 20:10:28
+==================================================
+No new files to organize.
+Duplicate found: test_files\Documents\notes_copy.txt | Original: test_files\Documents\notes.txt
+Duplicate found: test_files\Images\photo.jpg | Original: test_files\Documents\resume.pdf
+Duplicate found: test_files\Videos\video.mp4 | Original: test_files\Documents\resume.pdf
+Total duplicates found: 3
+Automation completed: 2026-10-01 20:10:28
+
+==================================================
+Automation started: 2026-10-01 20:13:12
+==================================================
+No new files to organize.
+Duplicate found: test_files\Documents\notes_copy.txt | Original: test_files\Documents\notes.txt
+Duplicate found: test_files\Images\photo.jpg | Original: test_files\Documents\resume.pdf
+Duplicate found: test_files\Videos\video.mp4 | Original: test_files\Documents\resume.pdf
+Total duplicates found: 3
+Automation completed: 2026-10-01 20:13:12
+
+==================================================
+Automation started: 2026-10-01 20:23:42
+==================================================
+No new files to organize.
+Duplicate found: test_files\Documents\notes_copy.txt | Original: test_files\Documents\notes.txt
+Duplicate moved to: test_files\Duplicates\notes_copy.txt
+Duplicate found: test_files\Images\photo.jpg | Original: test_files\Documents\resume.pdf
+Duplicate moved to: test_files\Duplicates\photo.jpg
+Duplicate found: test_files\Videos\video.mp4 | Original: test_files\Documents\resume.pdf
+Duplicate moved to: test_files\Duplicates\video.mp4
+Total duplicates found: 3
+Duplicate files moved: 3
+Automation completed: 2026-10-01 20:23:42
+
+==================================================
+Automation started: 2026-10-01 20:33:28
+==================================================
+No new files to organize.
+No duplicate files found.
+Automation completed: 2026-10-01 20:33:28
+
+==================================================
+Automation started: 2026-10-01 20:40:57
+==================================================
+No new files to organize.
+No duplicate files found.
+Automation completed: 2026-10-01 20:40:57
+
+==================================================
+Automation started: 2026-10-01 20:43:51
+==================================================
+No new files to organize.
+No duplicate files found.
+Automation completed: 2026-10-01 20:43:51
+[2026-10-02 12:32:13] Automation started.
+[2026-10-02 12:32:13] Automation completed successfully.
+[2026-10-02 12:35:13] Automation started.
+
+==================================================
+AUTOMATION RUN SUMMARY
+==================================================
+Date: 2026-10-02 12:35:13
+Files organized: 0
+Duplicates found: 0
+Duplicates moved: 0
+Total storage: 41 B
+Status: SUCCESS
+==================================================
+[2026-10-02 12:35:13] Automation completed successfully.
+[2026-10-02 12:35:39] Automation started.
+
+==================================================
+AUTOMATION RUN SUMMARY
+==================================================
+Date: 2026-10-02 12:35:39
+Files organized: 0
+Duplicates found: 0
+Duplicates moved: 0
+Total storage: 41 B
+Status: SUCCESS
+==================================================
+[2026-10-02 12:35:39] Automation completed successfully.
+[2026-10-02 12:37:07] Automation started.
+
+==================================================
+AUTOMATION RUN SUMMARY
+==================================================
+Date: 2026-10-02 12:37:07
+Files organized: 0
+Duplicates found: 0
+Duplicates moved: 0
+Total storage: 41 B
+Status: SUCCESS
+==================================================
+[2026-10-02 12:37:07] Automation completed successfully.
+[2026-10-02 12:43:34] Automation started.
+[2026-10-02 12:43:34] Moved presentation.pptx to Documents folder.
+[2026-10-02 12:43:34] Duplicate moved: resume.pdf
+
+==================================================
+AUTOMATION RUN SUMMARY
+==================================================
+Date: 2026-10-02 12:43:34
+Files organized: 1
+Duplicates found: 1
+Duplicates moved: 1
+Total storage: 41 B
+Status: SUCCESS
+==================================================
+[2026-10-02 12:43:34] Automation completed successfully.
+[2026-10-02 12:46:09] Automation started.
+
+==================================================
+AUTOMATION RUN SUMMARY
+==================================================
+Date: 2026-10-02 12:46:09
+Files organized: 0
+Duplicates found: 0
+Duplicates moved: 0
+Total storage: 41 B
+Status: SUCCESS
+==================================================
+[2026-10-02 12:46:09] Automation completed successfully.
+[2026-10-02 12:47:11] Automation started.
+
+==================================================
+AUTOMATION RUN SUMMARY
+==================================================
+Date: 2026-10-02 12:47:11
+Files organized: 0
+Duplicates found: 0
+Duplicates moved: 0
+Total storage: 41 B
+Status: SUCCESS
+==================================================
+[2026-10-02 12:47:11] Automation completed successfully.
+[2026-10-02 12:52:16] Automation started.
+[2026-10-02 12:52:16] Moved presentation.pptx to Documents folder.
+
+==================================================
+AUTOMATION RUN SUMMARY
+==================================================
+Date: 2026-10-02 12:52:16
+Files organized: 1
+Duplicates found: 0
+Duplicates moved: 0
+Total storage: 41 B
+Status: SUCCESS
+==================================================
+[2026-10-02 12:52:16] Automation completed successfully.
+[2026-10-02 13:03:51] Automation started.
+
+==================================================
+AUTOMATION RUN SUMMARY
+==================================================
+Date: 2026-10-02 13:03:51
+Files organized: 0
+Duplicates found: 0
+Duplicates moved: 0
+Total storage: 41 B
+Status: SUCCESS
+==================================================
+[2026-10-02 13:03:51] Automation completed successfully.
+[2026-10-02 13:23:48] Automation started.
+[2026-10-02 13:23:48] Moved presentation.pptx to Documents folder.
+[2026-10-02 13:23:48] Moved test_audio.mp3 to Audio folder.
+[2026-10-02 13:23:48] Moved test_documnet.pdf to Documents folder.
+[2026-10-02 13:23:48] Moved test_image.jpg to Images folder.
+[2026-10-02 13:23:48] Moved test_video.mp4 to Videos folder.
+[2026-10-02 13:23:48] Duplicate moved: presentation.pptx
+[2026-10-02 13:23:48] Duplicate moved: test_documnet.pdf
+[2026-10-02 13:23:48] Duplicate moved: test_image.jpg
+[2026-10-02 13:23:48] Duplicate moved: test_video.mp4
+
+==================================================
+AUTOMATION RUN SUMMARY
+==================================================
+Date: 2026-10-02 13:23:48
+Files organized: 5
+Duplicates found: 4
+Duplicates moved: 4
+Total storage: 41 B
+Status: SUCCESS
+==================================================
+[2026-10-02 13:23:48] Automation completed successfully.
+[2026-10-02 13:27:37] Automation started.
+[2026-10-02 13:27:37] Moved test_unknown.xyz to Others folder.
+[2026-10-02 13:27:37] Duplicate moved: test_unknown.xyz
+
+==================================================
+AUTOMATION RUN SUMMARY
+==================================================
+Date: 2026-10-02 13:27:37
+Files organized: 1
+Duplicates found: 1
+Duplicates moved: 1
+Total storage: 41 B
+Status: SUCCESS
+==================================================
+[2026-10-02 13:27:37] Automation completed successfully.
+[2026-10-02 13:29:28] Automation started.
+[2026-10-02 13:29:28] Moved test_real_data.txt to Documents folder.
+
+==================================================
+AUTOMATION RUN SUMMARY
+==================================================
+Date: 2026-10-02 13:29:28
+Files organized: 1
+Duplicates found: 0
+Duplicates moved: 0
+Total storage: 103 B
+Status: SUCCESS
+==================================================
+[2026-10-02 13:29:28] Automation completed successfully.
+[2026-10-02 13:33:18] Automation started.
+
+==================================================
+AUTOMATION RUN SUMMARY
+==================================================
+Date: 2026-10-02 13:33:18
+Files organized: 0
+Duplicates found: 0
+Duplicates moved: 0
+Total storage: 103 B
+Status: SUCCESS
+==================================================
+[2026-10-02 13:33:18] Automation completed successfully.

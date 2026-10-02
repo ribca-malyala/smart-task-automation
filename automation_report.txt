@@ -1,0 +1,61 @@
+============================================================
+           SMART TASK AUTOMATION REPORT
+============================================================
+
+RUN INFORMATION
+------------------------------------------------------------
+Generated On             : 2026-10-02 13:33:18
+Status                   : SUCCESS
+
+CURRENT RUN SUMMARY
+------------------------------------------------------------
+Files Organized          : 0
+Duplicates Found         : 0
+Duplicates Moved         : 0
+
+CURRENT FILE SUMMARY
+------------------------------------------------------------
+Images                   : 0
+Documents                : 2
+Videos                   : 0
+Audio                    : 1
+Others                   : 0
+Active Files             : 3
+Stored Duplicates        : 9
+
+FILE TYPE SUMMARY
+------------------------------------------------------------
+.mp3                     : 1
+.txt                     : 2
+------------------------------------------------------------
+Total File Types         : 2
+
+FILE SIZE STATISTICS
+------------------------------------------------------------
+Images                   : 0 B
+Documents                : 103 B
+Videos                   : 0 B
+Audio                    : 0 B
+Others                   : 0 B
+------------------------------------------------------------
+Active Storage           : 103 B
+
+DUPLICATE FILE DETAILS
+------------------------------------------------------------
+No duplicates detected during this run.
+
+Currently stored duplicate files:
+
+- notes_copy.txt
+- photo.jpg
+- presentation.pptx
+- resume.pdf
+- test_documnet.pdf
+- test_image.jpg
+- test_unknown.xyz
+- test_video.mp4
+- video.mp4
+
+============================================================
+Automation completed successfully.
+============================================================
